@@ -18,7 +18,6 @@ The **front matter** section is on the very top of the file containing various f
 
 ---  In the first and in the last line of front matter three hyphens.  
 
-
 #### Front matter file informations
 
 The file information is located in key pairs (variable:value). It can be done in YAML or in JSON file format.  
@@ -37,4 +36,3 @@ Here an example in YAML:
 If you want to write a new post but dont want to show them on your website until its is finished you can save it in the **_draft** directory.
 
 You can name the draft file in any way. If you want to publish the file rename it in the way specified above and move it to the _posts directory.
-
