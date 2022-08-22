@@ -1,4 +1,4 @@
-# Publish your website at github.com
+# Publish your website on GitHub Pages
 
 ## Setting up
 
