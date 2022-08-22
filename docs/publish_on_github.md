@@ -20,4 +20,4 @@
 
 8. Commit the repository and push it to GitHub.
 
-9. Go to your GitHub account, click *Settings* and have look when the site has been deployes. You can manually start to deploy the page by clicking on *deployed* and on the next page on the *Re-run all jobs* button.
+9. Go to your GitHub account, click *Settings* and have a look when the site has been deployed. You can manually start to deploy the page by clicking on *deployed* and on the next page on the *Re-run all jobs* button.
