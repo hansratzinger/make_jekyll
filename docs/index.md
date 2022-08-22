@@ -6,4 +6,6 @@ Quick start for setting up a website with JEKYLL.
 
 - [Create Jekyll website](https://hansratzinger.github.io/make_jekyll/jekyll_create_website.html)
 
-Hans Ratzinger 2022-08-22 NK
+- [Publish on GitHub Pages](https://hansratzinger.github.io/make_jekyll/publish_on_github.html)
+
+###### Hans Ratzinger 2022-08-22 NK
