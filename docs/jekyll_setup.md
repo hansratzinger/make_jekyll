@@ -5,21 +5,21 @@
 1. open Terminal in Windows
 2. go to your working directory  
 
-    `cd G:/web/www/`
+    `cd C:/web/www/`
 3. then you are creating the jekyll site  
 
     `jekyll new NAMEOFYOURSITE`  
 
-    The bundler will now build up the basic structure of the directory. 
+    The bundler will now build up the basic structure of the directory.
 
-    `New jekyll site installed in G:/web/www/mixedstuff/NAMEOFYOURSITE`  
+    `New jekyll site installed in C:/web/www/NAMEOFYOURSITE`  
 
 4. Open the directory of the new site to see the basic structure:
 
     `cd NAMEOFYOURSITE`  
     `ls`  
 
-        Directory: G:\web\www\mixedstuff\NAMEOFYOURSITE  
+        Directory: C:\web\www\NAMEOFYOURSITE  
 
         Mode                 LastWriteTime         Length Name  
         d----          01.11.2021    16:15                _posts  
@@ -48,16 +48,3 @@
 6. The jekyll server keeps running in terminal until you stop him by pressing `ctrl + c`.  
 If you want to start the server again you need only to enter:  
         `jekyll serve`
-
-
-
-
-
-
-
-
-
-
-
-
-
