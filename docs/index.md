@@ -6,7 +6,9 @@ Quick start for setting up a website with JEKYLL.
 
 - [Create Jekyll website](https://hansratzinger.github.io/make_jekyll/jekyll_create_website.html)
 
-- [Installing theme 'Minimal Mistakes'](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
+- Theme 'Minimal Mistakes'
+  - [Installing theme](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
+  - [Configuration](https://mmistakes.github.io/minimal-mistakes/docs/configuration/)
 
 - [Publish on GitHub Pages](https://hansratzinger.github.io/make_jekyll/publish_on_github.html)
 
