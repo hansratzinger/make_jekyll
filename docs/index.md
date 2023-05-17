@@ -10,9 +10,9 @@ Quick start for setting up a website with JEKYLL.
   - Setup Minimal Mistakes
     - [Installing theme](https://hansratzinger.github.io/make_jekyll/jekyll_setup_theme.html)
     - [Configuration](https://mmistakes.github.io/minimal-mistakes/docs/configuration/)
-
+  - [Minimal Mistakes Docs](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)  
 - [Publish on GitHub Pages](https://hansratzinger.github.io/make_jekyll/publish_on_github.html)
 
 - [Miscellaneous](https://hansratzinger.github.io/make_jekyll/jekyll_miscellaneous.html)
 
-###### Hans Ratzinger 2023-05-05 NK
+###### Hans Ratzinger 2023-05-17 NK
